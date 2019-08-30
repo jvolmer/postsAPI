@@ -2,7 +2,7 @@
 
 Get the currently most popular posts of reddit.com as an API in your browser:
 
-- Start th program with
+- Start the program with
 ```python
 python postsAPI.py
 ```
